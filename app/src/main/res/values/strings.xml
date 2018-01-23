@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">抢红包服务</string>
+    <string name="description">请先填写帐号和密码，然后在系统设置里找到辅助功能(无障碍)，打开抢红包服务即可。抢红包时请不要锁屏</string>
+    <string name="net_wrong">"网络异常，请稍后重试"</string>
+</resources>
